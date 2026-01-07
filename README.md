@@ -2,7 +2,9 @@
 
 Kernel-mode process protection driver using `ObRegisterCallbacks` to strip memory access permissions from handles. Basic implementation that hooks handle creation and removes `PROCESS_VM_READ/WRITE/OPERATION` from unauthorized access attempts.
 
-![Demo](https://i.imgur.com/oIJGLZi.png) ![Demo](https://i.imgur.com/nq1Ofei.gif)
+<img src="https://i.imgur.com/oIJGLZi.png" width="600">
+
+<img src="https://i.imgur.com/nq1Ofei.gif" width="600">
 
 ## Overview
 
