@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="aegis/aegis.vcxproj" Id="ab98c196-416a-4efb-ae96-d22b89390bde" />
+  <Project Path="km/km.vcxproj">
+    <Platform Project="x64" />
+    <Deploy />
+  </Project>
+  <Project Path="um/um.vcxproj" Id="f539b9d5-a56e-4c41-800c-1997c8ad019d" />
+</Solution>

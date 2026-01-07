@@ -1,0 +1,24 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.db
+
+# Build results
+x64/
+Debug/
+Release/
+*.sys
+*.exe
+*.obj
+*.pdb
+*.iobj
+*.ipdb
+*.tlog
+*.log
+
+# User specific
+*.aps
+*.ini
